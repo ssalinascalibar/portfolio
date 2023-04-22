@@ -1,6 +1,7 @@
 .card{
     color: #eee;
-    background-color: #282430;
+    /* background-color: #282430; */
+    background-color: #180f43;
     margin: 0 0.5rem;
     border-radius: 25px;
 }
