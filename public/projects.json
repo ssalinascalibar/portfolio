@@ -1,0 +1,51 @@
+[
+    {
+        "id": "0",
+        "img":"img/training-app-img.png",
+        "project_name": "Training app",
+        "desc": "App para entrenamiento personalizado, se accede mediante login de usuario.",
+        "tech": "frfrf",
+        "url_repo": "",
+        "url_deploy": "https://training-app-livid.vercel.app"
+    },
+
+    {
+        "id": "1",
+        "img":"img/galastore-img.png",
+        "project_name": "GalaStore",
+        "desc": "Marketplace de giftcards, el usuario logeado puede acceder a publicar giftcards como también editar su perfil.",
+        "tech": "rfrfr",
+        "url_repo": "",
+        "url_deploy": "https://marketplace-galastore.vercel.app"
+    },
+
+    {
+        "id": "2",
+        "img":"img/harryPotter-api-img.png",
+        "project_name": "Harry Potter Api",
+        "desc": "App que muestra personajes y hechizos de la saga Harry Potter.",
+        "tech": "frfrf",
+        "url_repo": "",
+        "url_deploy": "https://harry-potter-api-omega.vercel.app"
+    },
+
+    {
+        "id": "3",
+        "img":"img/pokemon-api-img.png",
+        "project_name": "Pokemon Api",
+        "desc": "App que muestra algunos pokemones con sus características.",
+        "tech": "frfrf",
+        "url_repo": "",
+        "url_deploy": "https://pokemon-api-lac-eight.vercel.app"
+    },
+
+    {
+        "id": "4",
+        "img":"img/crud-react-node-express-img.png",
+        "project_name": "CRUD ReactJs + NodeJs + Express",
+        "desc": "App que agrega, edita y elimina usuarios, los datos persisten en el servidor.",
+        "tech": "frfrf",
+        "url_repo": "",
+        "url_deploy": "https://crud-nodejs-express-react.vercel.app/"
+    }
+]

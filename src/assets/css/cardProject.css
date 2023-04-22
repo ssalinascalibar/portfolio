@@ -1,0 +1,22 @@
+.card{
+    color: #eee;
+    background-color: #282430;
+    margin: 0 0.5rem;
+    border-radius: 25px;
+}
+
+.card .btn{
+    background-color: #5000ff;
+    border-radius: 20px;
+    margin: 0 0.5rem;
+}
+
+.card img{
+    border-radius: 25px;
+    padding: 1rem;
+}
+
+.card-title{
+    font-weight: 700;
+}
+
