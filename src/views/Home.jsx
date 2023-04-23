@@ -1,25 +1,27 @@
-import React from 'react'
-import AboutMe from '../components/AboutMe'
+import React from "react";
+import AboutMe from "../components/AboutMe";
 
 //components
-import CardsProjects from '../components/CardsProjects'
+import CardsProjects from "../components/CardsProjects";
+import Header from "../components/Header";
 
 export default function Home() {
   return (
     <div>
-        <main>
-            <section>
+      <Header />
+      <main>
+        <section>
+          
+        </section>
 
-            </section>
-            
-            <section>
-                <CardsProjects />
-            </section>
+        <section>
+          <CardsProjects />
+        </section>
 
-            <section>
-                <AboutMe />
-            </section>
-        </main>
+        <section>
+          <AboutMe />
+        </section>
+      </main>
     </div>
-  )
+  );
 }
