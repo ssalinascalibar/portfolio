@@ -25,13 +25,13 @@ export default function () {
         <h2>Mis proyectos</h2>
       <div className="row gy-5">
         {projects?.map((project, i) => (
-          <div className="col-12 col-md-4" key={i}>
+          <div className="col-12 col-md-6 col-lg-4" key={i}>
             <div className="card" style={{height: '100%'}}>
               <img src={project.img} className="card-img-top" alt="portfolio Sebastian Salinas"></img>
               <div className="card-body">
                 <h5 className="card-title">{project.project_name}</h5>
                 <p className="card-text">{project.desc}</p>
-                <a href={project.url_repo} rel="noreferrer" target="_blank" className="btn btn-primary">
+                <a href={project.url_repo} rel="noreferrer" target="_blank" className="btn btn-primary my-3">
                   Ir al repositorio
                 </a>
                 <a href={project.url_deploy} rel="noreferrer" target="_blank" className="btn btn-primary">
