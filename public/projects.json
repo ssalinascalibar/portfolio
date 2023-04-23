@@ -5,7 +5,7 @@
         "project_name": "Training app",
         "desc": "App para entrenamiento personalizado, se accede mediante login de usuario.",
         "tech": "frfrf",
-        "url_repo": "",
+        "url_repo": "https://github.com/ssalinascalibar/training-app",
         "url_deploy": "https://training-app-livid.vercel.app"
     },
 
@@ -15,7 +15,7 @@
         "project_name": "GalaStore",
         "desc": "Marketplace de giftcards, el usuario logeado puede acceder a publicar giftcards como también editar su perfil.",
         "tech": "rfrfr",
-        "url_repo": "",
+        "url_repo": "https://github.com/ssalinascalibar/proyecto-final-galastore",
         "url_deploy": "https://marketplace-galastore.vercel.app"
     },
 
@@ -25,7 +25,7 @@
         "project_name": "Harry Potter Api",
         "desc": "App que muestra personajes y hechizos de la saga Harry Potter.",
         "tech": "frfrf",
-        "url_repo": "",
+        "url_repo": "https://github.com/ssalinascalibar/prueba-React1",
         "url_deploy": "https://harry-potter-api-omega.vercel.app"
     },
 
@@ -35,7 +35,7 @@
         "project_name": "Pokemon Api",
         "desc": "App que muestra algunos pokemones con sus características.",
         "tech": "frfrf",
-        "url_repo": "",
+        "url_repo": "https://github.com/ssalinascalibar/desafio-router-2-pokemon",
         "url_deploy": "https://pokemon-api-lac-eight.vercel.app"
     },
 
@@ -45,7 +45,7 @@
         "project_name": "CRUD ReactJs + NodeJs + Express",
         "desc": "App que agrega, edita y elimina usuarios, los datos persisten en el servidor.",
         "tech": "frfrf",
-        "url_repo": "",
+        "url_repo": "https://github.com/ssalinascalibar/crud-nodejs-express-react",
         "url_deploy": "https://crud-nodejs-express-react.vercel.app/"
     }
 ]
