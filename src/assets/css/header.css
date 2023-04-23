@@ -1,6 +1,6 @@
 header {
   background-image: url(/src/assets/img/bkg-header.jpg);
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
   background-size: cover;
