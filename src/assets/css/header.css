@@ -1,5 +1,5 @@
 header {
-  background-image: url(/src/assets/img/bkg-header.jpg);
+  background-image: url(/src/assets/img/header-background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
@@ -10,19 +10,25 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  -webkit-mask-image: linear-gradient(black 55%, transparent);
+  mask-image: linear-gradient(black, transparent);
 }
 
 .header-text{
-    padding: 0 2rem;
+    font-family: 'Noto Sans', sans-serif;
+    padding: 0 1.5rem;
 }
 
 header h1{
-    font-weight: 700;
-    font-size: 1.8em;
+    font-size: 2.3em;
+}
+
+header p {
+    font-size: 1.2em;
 }
 
 .span-header{
-    color: #1fdfd9;
+    font-weight: 700;
 }
 
 /* header{
