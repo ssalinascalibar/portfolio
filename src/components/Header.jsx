@@ -10,7 +10,6 @@ export default function Header() {
             <div className="row">
                 <div className="col">
                     <div className="header-text">
-                        {/* <h1>Hola, soy<br /><span className="span-header">Sebastian Salinas</span><br/><br/>te invito a visitar mi portfolio</h1> */}
                         <p>Hola, soy</p>
                         <h1><span className="span-header">Sebastian Salinas.</span><br/>Te invito a visitar mi portfolio</h1>
                         <p>Aquí podrás encontrar parte de mis trabajos y proyectos realizados en el área del desarrollo Web</p>

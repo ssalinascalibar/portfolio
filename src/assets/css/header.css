@@ -10,8 +10,8 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  -webkit-mask-image: linear-gradient(black 55%, transparent);
-  mask-image: linear-gradient(black, transparent);
+  -webkit-mask-image: linear-gradient(#110028 55%, transparent);
+  mask-image: linear-gradient(#110028, transparent);
 }
 
 .header-text{
@@ -25,6 +25,7 @@ header h1{
 
 header p {
     font-size: 1.2em;
+    font-weight: 700;
 }
 
 .span-header{
