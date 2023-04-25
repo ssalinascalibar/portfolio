@@ -26,7 +26,7 @@ export default function () {
       <div className="row gy-5">
         {projects?.map((project, i) => (
           <div className="col-12 col-md-6 col-lg-4" key={i}>
-            <div className="card" style={{height: '100%'}}>
+            <div className="card" data-aos="fade-up" data-aos-duration="3000" style={{height: '100%'}}>
               <img src={project.img} className="card-img-top" alt="portfolio Sebastian Salinas"></img>
               <div className="card-body">
                 <h5 className="card-title">{project.project_name}</h5>
