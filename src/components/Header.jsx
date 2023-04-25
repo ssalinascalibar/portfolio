@@ -11,8 +11,8 @@ export default function Header() {
                 <div className="col">
                     <div className="header-text">
                         <p>Hola, soy</p>
-                        <h1><span className="span-header">Sebastian Salinas.</span><br/>Te invito a visitar mi portfolio</h1>
-                        <p>Aquí podrás encontrar parte de mis trabajos y proyectos realizados en el área del desarrollo Web</p>
+                        <h1><span className="span-header">Sebastian Salinas.</span><br/>Te invito a visitar mi portfolio.</h1>
+                        <p>Aquí podrás encontrar parte de mis trabajos y proyectos realizados en el área del desarrollo Web.</p>
                     </div>
                 </div>
             </div>
