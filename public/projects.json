@@ -47,5 +47,25 @@
         "tech": "frfrf",
         "url_repo": "https://github.com/ssalinascalibar/crud-nodejs-express-react",
         "url_deploy": "https://crud-nodejs-express-react.vercel.app/"
+    },
+
+    {
+        "id": "5",
+        "img":"img/cuppon-img.png",
+        "project_name": "Cuppon",
+        "desc": "Web de cupones de descuentos realizada con Bootstrap.",
+        "tech": "frfrf",
+        "url_repo": "https://github.com/ssalinascalibar/desafio4-cuppon",
+        "url_deploy": "https://ssalinascalibar.github.io/desafio4-cuppon/"
+    },
+
+    {
+        "id": "6",
+        "img":"img/iguana-img.png",
+        "project_name": "Iguana page",
+        "desc": "Web con enfoque en la propiedades display y float en css y html semántico.",
+        "tech": "frfrf",
+        "url_repo": "https://github.com/ssalinascalibar/desafio3-iguana-page",
+        "url_deploy": "https://ssalinascalibar.github.io/desafio3-iguana-page/"
     }
 ]
