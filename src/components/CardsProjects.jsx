@@ -31,6 +31,7 @@ export default function () {
               <div className="card-body">
                 <h5 className="card-title">{project.project_name}</h5>
                 <p className="card-text">{project.desc}</p>
+                <p className="card-text text-tech">{project.tech}</p>
                 <a href={project.url_repo} rel="noreferrer" target="_blank" className="btn btn-primary my-3">
                   Ir al repositorio
                 </a>
