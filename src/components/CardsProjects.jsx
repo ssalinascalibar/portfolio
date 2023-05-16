@@ -2,9 +2,9 @@ import React from "react";
 import { useState, useEffect } from "react";
 
 //css
-import cardProject from '../assets/css/cardProject.css'
+import '../assets/css/cardProject.css'
 
-export default function () {
+export default function CardsProjects() {
   const [projects, setProjects] = useState([]);
 
   const getProjects = async () => {
@@ -26,7 +26,7 @@ export default function () {
       <div className="row gy-5">
         {projects?.map((project, i) => (
           <div className="col-12 col-md-6 col-lg-4" key={i}>
-            <div className="card" data-aos="fade-up" data-aos-duration="3000" style={{height: '100%'}}>
+            <div className="card" data-aos="fade-up" data-aos-duration="3000">
               <img src={project.img} className="card-img-top" alt="portfolio Sebastian Salinas"></img>
               <div className="card-body">
                 <h5 className="card-title">{project.project_name}</h5>
