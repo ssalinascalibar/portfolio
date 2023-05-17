@@ -54,7 +54,7 @@
         "id": "5",
         "img":"img/natural-pic-img.png",
         "project_name": "Natural Pic",
-        "desc": "...",
+        "desc": "App como sistema de likes o favoritos, utilizando Context API",
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio-natural-pic",
         "url_deploy": "https://natural-pic-brown.vercel.app"
