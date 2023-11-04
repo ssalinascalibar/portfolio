@@ -1,7 +1,7 @@
 import React from 'react'
 
 //css
-import header from '../assets/css/header.css'
+import '../assets/css/header.css'
 
 export default function Header() {
   return (
