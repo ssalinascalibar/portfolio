@@ -12,14 +12,6 @@ export default function Home() {
       <Header />
       <main>
         <section>
-          
-        </section>
-
-        {/* <section>
-          <CardsProjects />
-        </section> */}
-
-        <section>
           <AboutMe />
         </section>
 
