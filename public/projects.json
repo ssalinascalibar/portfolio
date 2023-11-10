@@ -71,7 +71,7 @@
     },
 
     {
-        "id": "6",
+        "id": "7",
         "img":"img/tiatomate-img.png",
         "project_name": "TiaTomate",
         "desc": "...",
@@ -81,7 +81,7 @@
     },
 
     {
-        "id": "7",
+        "id": "8",
         "img":"img/cuppon-img.png",
         "project_name": "Cuppon",
         "desc": "Web de cupones de descuentos realizada con Bootstrap.",
@@ -91,7 +91,7 @@
     },
 
     {
-        "id": "8",
+        "id": "9",
         "img":"img/iguana-img.png",
         "project_name": "Iguana page",
         "desc": "Web con enfoque en la propiedades display y float en css y html semántico.",

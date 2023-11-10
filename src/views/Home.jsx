@@ -4,7 +4,11 @@ import AboutMe from "../components/AboutMe";
 //components
 //import CardsProjects from "../components/CardsProjects";
 import Header from "../components/Header";
-import SliderProjects from "../components/SliderProjects";
+import Projects from "../components/Projects";
+
+//css
+import '../assets/css/home.css';
+
 
 export default function Home() {
   return (
@@ -14,9 +18,8 @@ export default function Home() {
         <section>
           <AboutMe />
         </section>
-
-        <section>
-          <SliderProjects />
+        <section className="mis-proyectos">
+          <Projects />
         </section>
       </main>
     </div>

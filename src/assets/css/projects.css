@@ -1,0 +1,129 @@
+.projects-wrap{
+    margin-top: 2rem;
+}
+.projects-wrap h3{
+    display: inline;
+    font-size: 1.1em;
+    
+}
+
+.projects-wrap p:hover{
+    color: #8c6bff;
+    
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    border-top: 1px dotted #b7a3fe;
+}
+
+li:hover{
+    background-color: #27154c;
+}
+
+#project-list{
+    margin: 0.5rem 0 0 0;
+    padding: 1rem 0 0.5rem 0;
+    /* border-top: 1px dotted #b7a3fe; */
+    /* text-decoration: underline dotted #8c6bff;
+    text-underline-offset: 0.5rem; */
+    
+}
+
+.p-id{
+    color: #8c6bff;
+}
+
+
+/* Modal projects */
+.modal-header{
+    border: none;
+    justify-content: flex-end;
+}
+
+.modal-footer{
+    border: none;
+}
+
+.modal-content{
+    background-color: #110028;
+    background-image: linear-gradient(to bottom right, #110028, rgb(53, 52, 52));
+}
+.modal-body h2{
+    text-align: right;
+}
+
+.modal-body > .modal-info{
+    margin: 6rem 0 0 0;
+}
+
+.modal-info > a:link{
+    font-size: 0.9em;
+}
+
+.modal-info > a:link, a:visited{
+    color: #fff;
+    margin: 0 1.5rem 0 0;
+
+}
+
+.modal-info > a:active{
+    color: #8c6bff;
+}
+
+.modal-info > a:hover{
+    color: #8c6bff;
+}
+
+.modal-info > a > i{
+    margin: 0 0.2rem 0 0;
+}
+
+.modal-info > p{
+    margin: 3rem 0 0 0;
+}
+
+.modal-body h2{
+    margin-top: 0.5rem;
+    font-size: 2.5em;
+}
+
+.modal .modal-body img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.btn-close-modal{
+    background-color: transparent;
+    border: none;
+}
+
+.modal-info > .project-tech{
+    color: #6cf;
+    background-color: #110028;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+/* end modal projects */
+
+@media screen and (min-width: 992px){
+    .projects-wrap{
+        width: 70%;
+    }
+    
+    .projects-wrap h3{
+        font-size: 1.3em;   
+    }
+
+    .modal-info > a:link{
+        font-size: 1em;
+    }
+    
+}
+
