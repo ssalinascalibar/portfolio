@@ -20,3 +20,13 @@ footer > .contact a{
 footer > .contact a:hover{
     color: #fff;
 }
+
+@media screen and (min-width: 992px){
+    footer{
+        align-items: center;
+    }
+
+    footer > .contact a{
+        font-size: 1.9em;
+    }
+}
