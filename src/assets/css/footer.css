@@ -1,3 +1,18 @@
 footer{
     color: #8c6bff;
 }
+
+footer > .contact{
+    display: flex;
+    justify-content: center;
+}
+
+footer > .contact a{
+    color: #8c6bff;
+    margin: 0 0.4rem;
+    font-size: 1.3em;
+}
+
+footer > .contact a:hover{
+    color: #fff;
+}
