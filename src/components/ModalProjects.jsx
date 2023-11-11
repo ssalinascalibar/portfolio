@@ -21,11 +21,13 @@ export default function ModalProjects({project_name, project_img, project_desc, 
           </Button>
         </Modal.Header>
         <Modal.Body>
+            <div className="img-wrap">
             <img src={project_img} alt={project_name} />
             <h2>{project_name}</h2>
+            </div>
             <div className="modal-info">
-                <a href={url_repo}><i className="fa-brands fa-github"></i> Ir al repositorio </a>
-                <a href={url_deploy}><i className="fa-solid fa-up-right-from-square"></i> Ver Demo</a>
+                <a href={url_repo} target="_blank"><i className="fa-brands fa-github"></i> Ir al repositorio </a>
+                <a href={url_deploy} target="_blank"><i className="fa-solid fa-up-right-from-square"></i> Ver Demo</a>
                 <p>{project_desc}</p>
                 <p className="project-tech">{project_tech}</p>
             </div>

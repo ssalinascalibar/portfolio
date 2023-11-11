@@ -2,7 +2,7 @@
 
     {
         "id": "0",
-        "img":"img/crud-react-node-express-img.png",
+        "img":"img/crud-react-node-express-square-img.png",
         "project_name": "CRUD ReactJs + NodeJs + Express",
         "desc": "App que agrega, edita y elimina usuarios, los datos persisten en el servidor.",
         "tech": "React Js | Js | Express | Node Js |  Css | Bootstrap",
@@ -12,7 +12,7 @@
 
     {
         "id": "1",
-        "img":"img/training-app-img.png",
+        "img":"img/training-app-square-img.png",
         "project_name": "Training app",
         "desc": "App para entrenamiento personalizado, se accede mediante login de usuario.",
         "tech": "React Js | Js | Css | Bootstrap ",
@@ -22,7 +22,7 @@
 
     {
         "id": "2",
-        "img":"img/galastore-img.png",
+        "img":"img/galastore-square-img.png",
         "project_name": "GalaStore",
         "desc": "Marketplace de giftcards, el usuario logeado puede acceder a publicar giftcards como también editar su perfil.",
         "tech": "React Js | Js | Css | Bootstrap",
@@ -32,7 +32,7 @@
 
     {
         "id": "3",
-        "img":"img/harryPotter-api-img.png",
+        "img":"img/harryPotter-api-square-img.png",
         "project_name": "Harry Potter Api",
         "desc": "App que muestra personajes y hechizos de la saga Harry Potter.",
         "tech": "React Js | Js | Css | Bootstrap",
@@ -42,7 +42,7 @@
 
     {
         "id": "4",
-        "img":"img/pokemon-api-img.png",
+        "img":"img/pokemon-api-square-img.png",
         "project_name": "Pokemon Api",
         "desc": "App que muestra algunos pokemones con sus características.",
         "tech": "React Js | Js | Css | Bootstrap",
@@ -52,7 +52,7 @@
 
     {
         "id": "5",
-        "img":"img/natural-pic-img.png",
+        "img":"img/natural-pic-square-img.png",
         "project_name": "Natural Pic",
         "desc": "App como sistema de likes o favoritos, utilizando Context API",
         "tech": "React Js | Js | Css | Bootstrap",
@@ -62,7 +62,7 @@
 
     {
         "id": "6",
-        "img":"img/mamma-mia-img.png",
+        "img":"img/mamma-mia-square-img.png",
         "project_name": "Mamma Mía",
         "desc": "...",
         "tech": "React Js | Js | Css | Bootstrap",
@@ -72,7 +72,7 @@
 
     {
         "id": "7",
-        "img":"img/tiatomate-img.png",
+        "img":"img/tiatomate-square-img.png",
         "project_name": "TiaTomate",
         "desc": "...",
         "tech": "Html | Sass",
@@ -82,7 +82,7 @@
 
     {
         "id": "8",
-        "img":"img/cuppon-img.png",
+        "img":"img/cuppon-square-img.png",
         "project_name": "Cuppon",
         "desc": "Web de cupones de descuentos realizada con Bootstrap.",
         "tech": "Html | Css | Bootstrap",
@@ -92,7 +92,7 @@
 
     {
         "id": "9",
-        "img":"img/iguana-img.png",
+        "img":"img/iguana-square-img.png",
         "project_name": "Iguana page",
         "desc": "Web con enfoque en la propiedades display y float en css y html semántico.",
         "tech": "...",
