@@ -72,7 +72,7 @@
 
     {
         "id": "7",
-        "img":"img/tiatomate-square-img.png",
+        "img":"img/tiaTomate-square-img.png",
         "project_name": "TiaTomate",
         "desc": "...",
         "tech": "Html | Sass",
