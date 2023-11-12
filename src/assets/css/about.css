@@ -5,6 +5,7 @@
 @media screen and (min-width: 992px){
     .p-section{
         font-size: 1.1em;
+        width: 75%;
     }
     
 }
