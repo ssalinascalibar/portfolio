@@ -6,19 +6,15 @@ import AboutMe from "../components/AboutMe";
 import Header from "../components/Header";
 import Projects from "../components/Projects";
 
-//css
-import '../assets/css/home.css';
-
-
 export default function Home() {
   return (
     <div>
       <Header />
       <main>
-        <section>
+        <section id="sobre-mi">
           <AboutMe />
         </section>
-        <section className="mis-proyectos">
+        <section id="mis-proyectos">
           <Projects />
         </section>
       </main>

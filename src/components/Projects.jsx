@@ -23,7 +23,7 @@ export default function Projects() {
 
   return (
     <div className="container">
-      <h1>Mis Proyectos</h1>
+      <h2>Mis Proyectos</h2>
       <ul className="projects-wrap" data-aos="fade" data-aos-duration="3000">
         {projects?.map((p, i) => (
           <li key={i} id="project-list">
