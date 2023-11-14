@@ -7,8 +7,8 @@ export default function Header() {
   return (
     <header>
       <div className="container">
-        <div className="row">
-          <div className="col">
+    
+          
             <div className="header-text">
               <p data-aos="fade-down" data-aos-duration="1000">
                 Hola, mi nombre es
@@ -23,8 +23,8 @@ export default function Header() {
                 realizados en el área del desarrollo Web.
               </p>
             </div>
-          </div>
-        </div>
+          
+        
       </div>
     </header>
   );
