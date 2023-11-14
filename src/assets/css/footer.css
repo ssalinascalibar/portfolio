@@ -3,7 +3,7 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 0 1.5rem;
+    padding: 0 2rem;
 }
 
 footer > .contact{
