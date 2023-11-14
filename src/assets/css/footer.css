@@ -1,5 +1,5 @@
 footer{
-    color: #8c6bff;
+    color: #ab94ff;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -12,7 +12,7 @@ footer > .contact{
 }
 
 footer > .contact a{
-    color: #8c6bff;
+    color: #ab94ff;
     margin: 0 0.4rem;
     font-size: 1.3em;
 }

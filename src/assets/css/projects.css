@@ -47,8 +47,9 @@ li:hover{
 }
 
 .modal-content{
-    background-color: #110028;
-    background-image: linear-gradient(to bottom right, #110028, rgb(53, 52, 52));
+    background: #2b5876;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #2b5876, #4e4376);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #2b5876, #4e4376); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .modal-body h2{
     text-align: right;
