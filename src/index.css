@@ -47,8 +47,8 @@ h2{
   text-align: left;
 }
 
-/* @media screen and (min-width: 992px) {
-  section{
-    padding: 0 5rem;
+@media screen and (min-width: 992px) {
+  header, section, footer{
+    padding: 0 6rem;
   }
-} */
+}
