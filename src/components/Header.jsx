@@ -1,4 +1,6 @@
 import React from "react";
+//components
+import { ContactBtn } from "./Buttons";
 
 //css
 import "../assets/css/header.css";
@@ -7,8 +9,6 @@ export default function Header() {
   return (
     <header>
       <div className="container">
-    
-          
             <div className="header-text">
               <p data-aos="fade-down" data-aos-duration="1000">
                 Hola, mi nombre es
@@ -23,8 +23,7 @@ export default function Header() {
                 realizados en el área del desarrollo Web.
               </p>
             </div>
-          
-        
+            <ContactBtn />
       </div>
     </header>
   );

@@ -1,0 +1,29 @@
+.contact-btn{
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #f7f7f7;
+    border: 1px solid #f7f7f7;
+}
+
+.contact-btn:hover{
+    background-color: #f7f7f7;
+}
+
+.contact-btn a:link{
+    text-decoration: none;
+    color: #f7f7f7;
+}
+
+.contact-btn a:link:hover{
+    color: #000;
+}
+ .contact-btn i{
+     margin: 0 0.5rem 0 0;
+ }
+
+@media screen and (min-width: 992px){
+    .contact-btn{
+        font-size: 1.4em;
+    }
+}

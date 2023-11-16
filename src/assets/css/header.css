@@ -1,23 +1,22 @@
 header {
-    
-  /* background-image: url(/src/assets/img/header-background.jpg);
-  background-position: center;
-  background-repeat: no-repeat; */
-  /* background-attachment: fixed; */
-  /* background-size: cover; */
-  height: 100vh;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  /* -webkit-mask-image: linear-gradient(#110028 65%, transparent);
-  mask-image: linear-gradient(#110028, transparent); */
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(/src/assets/img/header-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    /* background-size: cover; */
+    /* -webkit-mask-image: linear-gradient(#110028 65%, transparent);
+    mask-image: linear-gradient(#110028, transparent); */
 }
 
 .header-text{
     font-family: 'Noto Sans', sans-serif;
-    /* padding: 0 2rem; */
+    margin: 0 0 2rem 0;
 }
 
 header h1{
