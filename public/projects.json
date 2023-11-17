@@ -2,101 +2,144 @@
 
     {
         "id": "0",
+        "img":"img/movieApp-square-img.png",
+        "project_name": "Movie Trailer App",
+        "desc": "App de trailers de películas utilizando la Api TMDB. Se utliza Axios para la conexión, y Sass para los estilos. Aún en construcción.",
+        "tech": "React Js + Vite | Js | Axios | Sass",
+        "url_repo": "https://github.com/ssalinascalibar/movies-app",
+        "url_deploy": "https://movies-jhmxe6l5y-ssalinascalibar-gmailcom.vercel.app",
+        "type": "Desarrollo y Diseño Web"
+    },
+
+    {
+        "id": "1",
         "img":"img/crud-react-node-express-square-img.png",
         "project_name": "CRUD ReactJs + NodeJs + Express",
         "desc": "App que agrega, edita y elimina usuarios, los datos persisten en el servidor.",
         "tech": "React Js | Js | Express | Node Js |  Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/crud-nodejs-express-react",
-        "url_deploy": "https://crud-nodejs-express-react.vercel.app/"
+        "url_deploy": "https://crud-nodejs-express-react.vercel.app/",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "1",
+        "id": "2",
         "img":"img/training-app-square-img.png",
         "project_name": "Training app",
         "desc": "App para entrenamiento personalizado, se accede mediante login de usuario.",
         "tech": "React Js | Js | Css | Bootstrap ",
         "url_repo": "https://github.com/ssalinascalibar/training-app",
-        "url_deploy": "https://training-app-livid.vercel.app"
+        "url_deploy": "https://training-app-livid.vercel.app",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "2",
+        "id": "3",
         "img":"img/galastore-square-img.png",
         "project_name": "GalaStore",
         "desc": "Marketplace de giftcards, el usuario logeado puede acceder a publicar giftcards como también editar su perfil.",
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/proyecto-final-galastore",
-        "url_deploy": "https://marketplace-galastore.vercel.app"
+        "url_deploy": "https://marketplace-galastore.vercel.app",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "3",
+        "id": "4",
         "img":"img/harryPotter-api-square-img.png",
         "project_name": "Harry Potter Api",
         "desc": "App que muestra personajes y hechizos de la saga Harry Potter.",
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/prueba-React1",
-        "url_deploy": "https://harry-potter-api-omega.vercel.app"
+        "url_deploy": "https://harry-potter-api-omega.vercel.app",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "4",
+        "id": "5",
         "img":"img/pokemon-api-square-img.png",
         "project_name": "Pokemon Api",
         "desc": "App que muestra algunos pokemones con sus características.",
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio-router-2-pokemon",
-        "url_deploy": "https://pokemon-api-lac-eight.vercel.app"
+        "url_deploy": "https://pokemon-api-lac-eight.vercel.app",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "5",
+        "id": "6",
         "img":"img/natural-pic-square-img.png",
         "project_name": "Natural Pic",
         "desc": "App como sistema de likes o favoritos, utilizando Context API",
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio-natural-pic",
-        "url_deploy": "https://natural-pic-brown.vercel.app"
+        "url_deploy": "https://natural-pic-brown.vercel.app",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "6",
+        "id": "7",
         "img":"img/mamma-mia-square-img.png",
         "project_name": "Mamma Mía",
         "desc": "...",
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio-mamma-mia",
-        "url_deploy": "https://mamma-mia-tau.vercel.app"
+        "url_deploy": "https://mamma-mia-tau.vercel.app",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "7",
+        "id": "8",
         "img":"img/tiaTomate-square-img.png",
         "project_name": "TiaTomate",
         "desc": "...",
         "tech": "Html | Sass",
         "url_repo": "https://github.com/ssalinascalibar/desafio-opcional-tia-tomate",
-        "url_deploy": "https://ssalinascalibar.github.io/desafio-opcional-tia-tomate/"
+        "url_deploy": "https://ssalinascalibar.github.io/desafio-opcional-tia-tomate/",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "8",
+        "id": "9",
         "img":"img/cuppon-square-img.png",
         "project_name": "Cuppon",
         "desc": "Web de cupones de descuentos realizada con Bootstrap.",
         "tech": "Html | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio4-cuppon",
-        "url_deploy": "https://ssalinascalibar.github.io/desafio4-cuppon/"
+        "url_deploy": "https://ssalinascalibar.github.io/desafio4-cuppon/",
+        "type": "Desarrollo y Diseño Web"
     },
 
     {
-        "id": "9",
+        "id": "10",
         "img":"img/iguana-square-img.png",
         "project_name": "Iguana page",
         "desc": "Web con enfoque en la propiedades display y float en css y html semántico.",
         "tech": "...",
         "url_repo": "https://github.com/ssalinascalibar/desafio3-iguana-page",
-        "url_deploy": "https://ssalinascalibar.github.io/desafio3-iguana-page/"
+        "url_deploy": "https://ssalinascalibar.github.io/desafio3-iguana-page/",
+        "type": "Desarrollo y Diseño Web"
+    },
+
+    {
+        "id": "11",
+        "img":"img/arteMosaico-square-img.png",
+        "project_name": "Arte Mosaico",
+        "desc": "Tienda virtual dedicada a la venta de piezas decorativas. Diseño y configuración de tienda utilizando Jumpseller.",
+        "tech": "Jumpseller",
+        "url_repo": "",
+        "url_deploy": "https://www.artemosaico.cl",
+        "type": "Ecommerce"
+    },
+
+    {
+        "id": "12",
+        "img":"img/wonderlandboxes-square-img.png",
+        "project_name": "Wonderlandboxes",
+        "desc": "Tienda virtual dedicada a la venta de cajas, papelería, Packaging y corporativo. Diseño y configuración de tienda utilizando Wordpress y Woocommerce.",
+        "tech": "Wordpress | Woocommerce",
+        "url_repo": "",
+        "url_deploy": "https://www.wonderlandboxes.cl",
+        "type": "Ecommerce"
     }
 ]
