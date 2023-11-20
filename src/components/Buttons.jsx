@@ -44,10 +44,10 @@ export function ProjectsBtn( { projects, setProjects, filterProjects, setFilterP
   ]
 
   const handleButton = (e) => {
-    let typeButton = e.target.value;
-    console.log(typeButton)
-    typeButton !== "all"
-    ? setFilterProjects(projects.filter(b => b.type === typeButton))
+    let typeProject = e.target.value;
+    console.log(typeProject)
+    typeProject !== "all"
+    ? setFilterProjects(projects.filter(b => b.type === typeProject))
     : setFilterProjects(projects);
     console.log(filterProjects)
   }
