@@ -3,10 +3,15 @@ import { useState, useEffect } from "react";
 
 //css
 import "../assets/css/projects.css";
+
+//components
+import { ProjectsBtn } from "./Buttons";
 import ModalProjects from "./ModalProjects";
 
 export default function Projects() {
   const [projects, setProjects] = useState([]);
+
+  const [filterProjects, setFilterProjects] = useState(null);
 
   const getProjects = async () => {
     const endPoint = "/projects.json";
@@ -24,8 +29,11 @@ export default function Projects() {
   return (
     <div className="container">
       <h2>Mis Proyectos</h2>
+      <div className="projects-btn-Wrap">
+        <ProjectsBtn projects={projects} setProjects={setProjects} filterProjects={filterProjects} setFilterProjects={setFilterProjects} />
+      </div>
       <ul className="projects-wrap" data-aos="fade" data-aos-duration="3000">
-        {projects?.map((p, i) => (
+        {filterProjects?.map((p, i) => (
           <li key={i} id="project-list">
             <ModalProjects
               project_name={p.project_name}

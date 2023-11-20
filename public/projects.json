@@ -8,7 +8,7 @@
         "tech": "React Js + Vite | Js | Axios | Sass",
         "url_repo": "https://github.com/ssalinascalibar/movies-app",
         "url_deploy": "https://movies-jhmxe6l5y-ssalinascalibar-gmailcom.vercel.app",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -19,7 +19,7 @@
         "tech": "React Js | Js | Express | Node Js |  Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/crud-nodejs-express-react",
         "url_deploy": "https://crud-nodejs-express-react.vercel.app/",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -30,7 +30,7 @@
         "tech": "React Js | Js | Css | Bootstrap ",
         "url_repo": "https://github.com/ssalinascalibar/training-app",
         "url_deploy": "https://training-app-livid.vercel.app",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -41,7 +41,7 @@
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/proyecto-final-galastore",
         "url_deploy": "https://marketplace-galastore.vercel.app",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -52,7 +52,7 @@
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/prueba-React1",
         "url_deploy": "https://harry-potter-api-omega.vercel.app",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -63,7 +63,7 @@
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio-router-2-pokemon",
         "url_deploy": "https://pokemon-api-lac-eight.vercel.app",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -74,7 +74,7 @@
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio-natural-pic",
         "url_deploy": "https://natural-pic-brown.vercel.app",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -85,7 +85,7 @@
         "tech": "React Js | Js | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio-mamma-mia",
         "url_deploy": "https://mamma-mia-tau.vercel.app",
-        "type": "Desarrollo y Diseño Web"
+        "type": "app"
     },
 
     {
@@ -96,7 +96,7 @@
         "tech": "Html | Sass",
         "url_repo": "https://github.com/ssalinascalibar/desafio-opcional-tia-tomate",
         "url_deploy": "https://ssalinascalibar.github.io/desafio-opcional-tia-tomate/",
-        "type": "Desarrollo y Diseño Web"
+        "type": "diseño"
     },
 
     {
@@ -107,7 +107,7 @@
         "tech": "Html | Css | Bootstrap",
         "url_repo": "https://github.com/ssalinascalibar/desafio4-cuppon",
         "url_deploy": "https://ssalinascalibar.github.io/desafio4-cuppon/",
-        "type": "Desarrollo y Diseño Web"
+        "type": "diseño"
     },
 
     {
@@ -118,7 +118,7 @@
         "tech": "...",
         "url_repo": "https://github.com/ssalinascalibar/desafio3-iguana-page",
         "url_deploy": "https://ssalinascalibar.github.io/desafio3-iguana-page/",
-        "type": "Desarrollo y Diseño Web"
+        "type": "diseño"
     },
 
     {
@@ -129,17 +129,17 @@
         "tech": "Jumpseller",
         "url_repo": "",
         "url_deploy": "https://www.artemosaico.cl",
-        "type": "Ecommerce"
+        "type": "ecommerce"
     },
 
     {
         "id": "12",
         "img":"img/wonderlandboxes-square-img.png",
-        "project_name": "Wonderlandboxes",
+        "project_name": "Wonderland boxes",
         "desc": "Tienda virtual dedicada a la venta de cajas, papelería, Packaging y corporativo. Diseño y configuración de tienda utilizando Wordpress y Woocommerce.",
         "tech": "Wordpress | Woocommerce",
         "url_repo": "",
         "url_deploy": "https://www.wonderlandboxes.cl",
-        "type": "Ecommerce"
+        "type": "ecommerce"
     }
 ]

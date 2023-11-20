@@ -35,6 +35,12 @@ li:hover{
     color: #8c6bff;
 }
 
+.projects-btn-Wrap{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0 2rem 0;
+}
+
 
 /* Modal projects */
 .modal-header{

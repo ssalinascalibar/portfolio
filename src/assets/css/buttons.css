@@ -1,29 +1,44 @@
-.contact-btn{
-    padding: 0.4rem 1rem;
-    border-radius: 5px;
+.contact-btn {
+  padding: 0.4rem 1rem;
+  border-radius: 20px;
+  background-color: transparent;
+  color: #f7f7f7;
+  border: 1px solid #f7f7f7;
+}
+
+.contact-btn:hover {
+  background-color: #f7f7f7;
+}
+
+.contact-btn a:link {
+  text-decoration: none;
+  color: #f7f7f7;
+}
+
+.contact-btn a:link:hover {
+  color: #000;
+}
+
+.contact-btn i {
+  margin: 0 0.5rem 0 0;
+}
+
+.projects-btn{
+    color: #b7a3fe;
     background-color: transparent;
-    color: #f7f7f7;
-    border: 1px solid #f7f7f7;
+    border: 1px solid #b7a3fe;
+    border-radius: 20px;
+    padding: 0.4rem 1rem;
+    margin: 1rem 0.5rem 0 0;
 }
 
-.contact-btn:hover{
-    background-color: #f7f7f7;
-}
-
-.contact-btn a:link{
-    text-decoration: none;
+.projects-btn:hover{
+    background-color: #27154c;
     color: #f7f7f7;
 }
 
-.contact-btn a:link:hover{
-    color: #000;
-}
- .contact-btn i{
-     margin: 0 0.5rem 0 0;
- }
-
-@media screen and (min-width: 992px){
-    .contact-btn{
-        font-size: 1.4em;
-    }
+@media screen and (min-width: 992px) {
+  .contact-btn {
+    font-size: 1.4em;
+  }
 }
