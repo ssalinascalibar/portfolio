@@ -22,8 +22,6 @@ export function ContactBtn() {
 
 export function ProjectsBtn( { projects, setProjects, filterProjects, setFilterProjects }) {
 
-  // const [filterButtons, setFilterButtons] = useState(null);
-
   const buttons = [
     {
       name: "All",

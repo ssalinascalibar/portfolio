@@ -9,9 +9,11 @@ import { ProjectsBtn } from "./Buttons";
 import ModalProjects from "./ModalProjects";
 
 export default function Projects() {
+  // Variable que contiene todos los proyectos
   const [projects, setProjects] = useState([]);
 
-  const [filterProjects, setFilterProjects] = useState(null);
+  // variable que contiene inicialmente todos los proyectos pero luego al activar onclick hará los filtros correspondientes
+  const [filterProjects, setFilterProjects] = useState([]);
 
   const getProjects = async () => {
     const endPoint = "/projects.json";
@@ -19,6 +21,7 @@ export default function Projects() {
     const data = await res.json();
 
     setProjects(data);
+    setFilterProjects(data);
     console.log(data);
   };
 
