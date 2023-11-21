@@ -4,18 +4,11 @@
   background-color: transparent;
   color: #f7f7f7;
   border: 1px solid #f7f7f7;
+  text-decoration: none;
 }
 
 .contact-btn:hover {
   background-color: #f7f7f7;
-}
-
-.contact-btn a:link {
-  text-decoration: none;
-  color: #f7f7f7;
-}
-
-.contact-btn a:link:hover {
   color: #000;
 }
 
