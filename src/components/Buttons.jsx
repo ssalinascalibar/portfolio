@@ -19,12 +19,8 @@ export function ContactBtn() {
   );
 }
 
-export function ProjectsBtn({
-  projects,
-  setProjects,
-  filterProjects,
-  setFilterProjects,
-}) {
+export function ProjectsBtn({ projects, setProjects, filterProjects, setFilterProjects }) {
+  
   const buttons = [
     {
       name: "All",
