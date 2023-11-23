@@ -19,6 +19,14 @@ export function ContactBtn() {
   );
 }
 
+export function CvInput() {
+  return (
+    <>
+      <a className="contact-btn" href="CV_SSalinas_FrontEnd.pdf" download="CV_SSalinas_FrontEnd.pdf"><i className="fa-solid fa-circle-down"></i>Mi CV</a>
+    </>
+  );
+}
+
 export function ProjectsBtn({ projects, setProjects, filterProjects, setFilterProjects }) {
   
   const buttons = [

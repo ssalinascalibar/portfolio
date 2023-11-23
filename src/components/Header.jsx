@@ -1,6 +1,7 @@
 import React from "react";
 //components
 import { ContactBtn } from "./Buttons";
+import { CvInput } from "./Buttons";
 
 //css
 import "../assets/css/header.css";
@@ -24,6 +25,7 @@ export default function Header() {
               </p>
             </div>
             <ContactBtn />
+            <CvInput />
       </div>
     </header>
   );
