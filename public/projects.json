@@ -141,5 +141,16 @@
         "url_repo": "",
         "url_deploy": "https://www.wonderlandboxes.cl",
         "type": "ecommerce"
+    },
+
+    {
+        "id": "13",
+        "img":"img/acim-square-img.png",
+        "project_name": "Acim",
+        "desc": "Sitio Web dedicado a las importaciones principalmente desde China . Diseño y configuración de tienda utilizando Wordpress y Elementor.",
+        "tech": "Wordpress",
+        "url_repo": "",
+        "url_deploy": "https://www.acim.cl",
+        "type": "ecommerce"
     }
 ]
