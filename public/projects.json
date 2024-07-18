@@ -7,7 +7,7 @@
         "desc": "App de trailers de películas utilizando la Api TMDB. Se utliza Axios para la conexión, y Sass para los estilos. Aún en construcción.",
         "tech": "React Js + Vite | Js | Axios | Sass",
         "url_repo": "https://github.com/ssalinascalibar/movies-app",
-        "url_deploy": "https://movies-jhmxe6l5y-ssalinascalibar-gmailcom.vercel.app",
+        "url_deploy": "https://movies-likfq1alo-ssalinascalibargmailcoms-projects.vercel.app",
         "type": "app"
     },
 
