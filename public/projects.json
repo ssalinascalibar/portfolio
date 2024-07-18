@@ -123,12 +123,12 @@
 
     {
         "id": "11",
-        "img":"img/arteMosaico-square-img.png",
-        "project_name": "Arte Mosaico",
-        "desc": "Tienda virtual dedicada a la venta de piezas decorativas. Diseño y configuración de tienda utilizando Jumpseller.",
-        "tech": "Jumpseller",
+        "img":"img/comprasxmayor-img.png",
+        "project_name": "Comprasxmayor",
+        "desc": "Tienda virtual dedicada a la venta de Mangas. Diseño y configuración de tienda utilizando Wordpress, Woocommerce y Elementor.",
+        "tech": "Wordpress | Woocommerce",
         "url_repo": "",
-        "url_deploy": "https://www.artemosaico.cl",
+        "url_deploy": "https://www.comprasxmayor.cl",
         "type": "ecommerce"
     },
 
